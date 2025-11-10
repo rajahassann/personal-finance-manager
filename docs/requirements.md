@@ -1,7 +1,8 @@
 Development Methodology: Iterative Enhancement
 
 v0.1 basic-
-	input date --> input monthly income-> input fixed costs -> calculate amount left -> input variable costs --> calculate savings left
+	*input date --> input monthly income-> input fixed costs -> calculate amount left -> input variable costs --> calculate savings left*
+	
 	1)Initialization
 		Input inital balance
 		For each month:
