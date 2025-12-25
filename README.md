@@ -8,12 +8,11 @@ This project allows users to view and budget their monthly expenses.
 ## Project Files
 
 ### Current Version (v1.1 Beta)
-- `budget.py` - Contains the main Budget class for OOP structure, file saving, and tracking
+- `budget.py` - Contains the main Budget class
 - `main_file.py` - The main program to run version 1.1 Beta
 
 ### Previous Version (v1.0 Alpha - Preserved)
-- `v1_0_alpha.py` - The original version of the app using dictionaries (originally from finance_manager.py)
-
+- `v1_0_alpha.py` - The original version of the app using dictionaries instead of classes
 ## Version History
 
 ### v1.1 Beta (Current/In Development)
